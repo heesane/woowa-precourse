@@ -1,0 +1,6 @@
+[submodule "racingcar"]
+	path = racingcar
+	url = https://github.com/heesane/racingcar.git
+[submodule "baseball"]
+	path = baseball
+	url = https://github.com/heesane/baseball.git
