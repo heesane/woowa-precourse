@@ -1,8 +1,12 @@
 [submodule "racingcar"]
-	path = racingcar
-	url = https://github.com/heesane/racingcar.git
-	branch = main
+path = racingcar
+url = https://github.com/heesane/racingcar.git
+branch = main
 [submodule "baseball"]
-	path = baseball
-	url = https://github.com/heesane/baseball.git
-	branch = main
+path = baseball
+url = https://github.com/heesane/baseball.git
+branch = main
+[submoudle "lotto"]
+path = lotto
+url = https://github.com/heesane/lotto.git
+branch = main
