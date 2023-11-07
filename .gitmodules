@@ -9,3 +9,4 @@ branch = main
 
 [submodule "lotto"]
 url = https://github.com/heesane/lotto.git
+path = lotto
